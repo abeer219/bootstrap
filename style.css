@@ -1,0 +1,188 @@
+.header{
+    background-image:url('img/3.jpg');
+    height: 600px;
+} 
+nav .navbar-brand{
+    margin-left: 200px; 
+    margin-right: 200px;
+    color: white;
+}
+
+ nav .collapse navbar-collapse ul li{
+   color: white; 
+   margin-right: 100px;
+}
+
+h1{ 
+    
+    padding-top: 250px;
+   
+}
+
+.transparent_btn{
+    display: inline-block;
+    font-size: 14PX;
+    line-height: 120%;
+    color: #FFF;
+    font-weight:bold;
+    background-color: transparent;
+    border: 1px solid #fff;
+    padding: 8px 50px;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color ease 400ms;
+}
+
+.transparent_btn:hover{
+    color: #fff;
+    background-color: rgba(255,255,255,0.3);
+    text-decoration: none;
+}
+
+.col-md-6 h2{
+    font-size: 1.5em;   
+    margin-top:50px;
+    margin-left: 100px;
+    font-weight:bold;
+    text-align: left;
+}
+
+.col-md-6 p{
+    text-align: left;
+    margin-left: 100px;
+}
+
+.col-md-6 h3{
+   
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    margin-top: 50px;
+}
+
+span {
+    color: aquamarine;
+    font-size: 30px;
+    border: 2px solid;
+    padding: 20px;
+    border-radius: 50px;
+    margin-top: 10px;
+}
+
+.col-md-6 h5{
+    margin-top: 10px;
+    float: left;
+}
+
+
+
+section{
+    background-color:#F8F8F8;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.para{
+    margin-bottom: 50px;
+}
+
+.num{
+    text-align: center;
+    font-size: 30px;
+    color: aquamarine;
+}
+p{
+    text-align: center;
+}
+
+.team h3{
+    margin-top: 50px;
+}
+
+.team .paragraph{
+    
+}
+
+.team .row{
+    margin-top: 30px;
+}
+
+.team img{ 
+     height: 200px;
+     width: 200px;
+}
+
+/* --------- form ---------- */
+form{
+    
+    margin-right: 200px;
+    padding: 10px;
+    text-align: center;
+}
+
+.for{
+    margin-top: 20px;
+}
+
+input{
+    width: 400px;
+    height:30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+textarea{
+    height:130px;
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+#submit{
+    height:40px;
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: #00cc99;
+    color:white;
+    border-bottom-color:#00cc99;
+}
+
+.col-md-2{
+    margin-top: 50px;
+}
+
+.col-md-4{
+    margin-top: 50px;
+}
+
+h4 i{
+    color: aquamarine;
+    font-size: 30px;
+    text-align: right;
+}
+
+.face h5 i{
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+}
+
+.footer{
+    
+    width: 100%;
+    background-color:black;
+    height: 50px;
+}
+
+.footer p{
+    text-align:center;
+    color: white;
+    padding: 15px;
+}
